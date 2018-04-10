@@ -6,42 +6,33 @@ Template Name: Days of Dorcas
 <?php include('custom-header.php') ?>
        
 <section class="container">        
-         <!-- title -->
-            <h2>Have a question or comment?</h2>
-                <p>We welcome comments and questions about The Days of Dorcas initiative.</p>
-                <p>For the quickest reply, please complete the form below or send an email to csr@gtbank.com</p>
+         <div class="art-gallery">
+            <h2>About</h2>
+         </div> 
+<section> 
+<p>Arts is one of the four pillars of GTBank’s Corporate Social Responsibility policy and the launch of Art635 is the latest of the Bank’s sustained efforts to promote African arts locally and internationally. At the moment, most budding indigenous artists in Nigeria and across Africa have little or nowhere to showcase their works and make a living from them.
+</p>
+<p>With Art635, the bank aims to further its support for African arts by helping African artworks become not just more visible and appreciated, but also to turn them into a much more profitable and commercially viable venture for indigenous artists. 
+</p>
 
-    <section> <!-- list of facilitators --> 
+<p>
+This is in line with the Bank’s initiative to go beyond the traditional understanding of Corporate Social Responsibility as corporate philanthropy by intervening in economic sectors, to strengthen small businesses through capacity building initiatives that serve to boost their expertise, exposure and business growth.
+</p>
 
-     <h2 class="subtitle">Profile Information</h2>     
-         <div class="form-control">
-         <input type="text" placeholder="First 
-         name" class="text-input">
-         <input type="text" placeholder="Last name" class="text-input">
-         </div>
+<div class="pic-collage">
+<img src="" class"pic-a">
+<img src="" class"pic-a">
+<img src="" class"pic-a">
+<img src="" class"pic-a">
+</div>
 
-         <div class="form-control">
-         <input type="text" placeholder="Phone number" class="text-input">
-         <input type="text" placeholder="Email Address" class="text-input">
-         </div>
-         
-
-         <div class="form-control">
-         <input type="textarea" placeholder="Enter Question or enquiry here" class="textarea-input">
-         </div>
-
-
-         <div class="form-control">
-         <input type="submit" class="red-button">
-         </div>
-         
-    </section> 
-        <!-- close list facilitators -->
-
+<p>The Days of Dorcas Online Competition and workshop is an annual photography workshop for female African photographers. The initiative is meant to inspire and thus increase the number of female entrepreneurs in the Art of photography across Africa. All female photographers across Africa and of African descent are welcome to apply for the online competition from which the top entries will be selected as workshop participants.</p>
+    
+<div>
+<button class="red-button">submit</button>
+</div>
 </section> 
-        <!-- close meet the facilitators -->
-
-
+    
           
            
 <?php include('custom-footer.php') ?>
