@@ -5,7 +5,7 @@ Template Name: Days of Dorcas
 ?>
 <?php include('custom-header.php') ?>
        
-<section class="MeetFacilities">        
+<section class="container">        
          <!-- title -->
             <h2>Meet The Faciltitators</h2>
     <section> <!-- list of facilitators -->
