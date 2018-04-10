@@ -3,7 +3,7 @@
 Template Name: Home Days of Dorcas
 */
 ?>
-<?php include('custom-header.php') ?>
+<?php include('temp-parts/custom-header.php') ?>
         <header>
             <img src="" class="dorcas-symbol" alt="">
             <h1>Days of Dorcas</h1>
@@ -83,4 +83,4 @@ Template Name: Home Days of Dorcas
                 </ul>
             </div>
         </section>
-<?php include('custom-footer.php') ?>
+<?php include('temp-parts/custom-footer.php') ?>
