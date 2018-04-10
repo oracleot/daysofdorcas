@@ -1,35 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title><?php echo bloginfo(); ?></title>
-        <link rel="stylesheet" href="styles.css">
-    </head>
-
-    <body>
-        <nav>
-            <img src="" alt="" class="brand">
-            <ul class="menu">
-                <li class="active">
-                    <a href="index.html">Home</a>
-                </li>
-                <li>
-                    <a href="guidelines.html">Guidelines</a>
-                </li>
-                <li>
-                    <a href="facilitators.html">The Facilitators</a>
-                </li>
-                <li>
-                    <a href="about.html">About</a>
-                </li>
-                <li>
-                    <a href="enquiries.html">Enquiries</a>
-                </li>
-            </ul>
-        </nav>
+<?php
+/*
+Template Name: Days of Dorcas
+*/
+?>
+<?php include('custom-header.php') ?>
         <header>
             <img src="" class="dorcas-symbol" alt="">
             <h1>Days of Dorcas</h1>
@@ -109,20 +83,4 @@
                 </ul>
             </div>
         </section>
-        <footer>
-            <ul class="otherlinks">
-                <li>About GTBank</li>
-                <li>GTBank CSR</li>
-                <li>Contact Us</li>
-            </ul>
-            <p>The
-                <span>Days of Dorcas</span> is a corporate social responsibility initiative of
-                <strong>Guaranty Trust Bank Plc.</strong>
-            </p>
-            <p>Copyright &copy; 2018 GTBank plc. All rights reserved.
-                <a href="">Terms and conditions</a>
-            </p>
-        </footer>
-    </body>
-
-</html>
+<?php include('custom-footer.php') ?>
