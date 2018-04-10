@@ -19,6 +19,18 @@ body{
     box-sizing: border-box;
 }
 
-nav{
-    background: #f5f5f5
+nav.header{
+    background: #f5f5f5;
+}
+
+nav.header ul li{
+    list-style: none;
+    display: inline-block;
+    width: 120px;
+    padding:20px;
+    background:#f1f1f1;
+    text-align:center
+}
+nav.header ul li a{
+    text-decoration: none
 }

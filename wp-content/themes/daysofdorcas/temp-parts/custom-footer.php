@@ -1,9 +1,11 @@
-<footer>
-            <ul class="otherlinks">
-                <li>About GTBank</li>
-                <li>GTBank CSR</li>
-                <li>Contact Us</li>
-            </ul>
+        <footer>
+            <nav class="footer">
+                <?php 
+                    wp_nav_menu( $args = array(
+                        'theme_location' => 'footer'
+                    ));
+                ?>
+            </nav>
             <p>The
                 <span>Days of Dorcas</span> is a corporate social responsibility initiative of
                 <strong>Guaranty Trust Bank Plc.</strong>

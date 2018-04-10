@@ -1,10 +1,3 @@
-<?php
-/*
-Template Name: Days of Dorcas
-*/
-?>
-<?php include('custom-header.php') ?>
-       
 <section class="container">        
          <!-- title -->
             <h2>Meet The Facilitators</h2>
@@ -52,8 +45,3 @@ Template Name: Days of Dorcas
 
 </section> 
         <!-- close meet the facilitators -->
-
-
-          
-           
-<?php include('custom-footer.php') ?>
