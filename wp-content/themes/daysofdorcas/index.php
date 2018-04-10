@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Days of Dorcas
+Template Name: Home Days of Dorcas
 */
 ?>
 <?php include('custom-header.php') ?>
