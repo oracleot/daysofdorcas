@@ -3,8 +3,7 @@
 Template Name: Days of Dorcas
 */
 ?>
-<?php include('custom-header.php') ?>
-       
+
 <section class="container">        
          <div class="art-gallery">
             <h2>About</h2>
@@ -34,5 +33,3 @@ This is in line with the Bank’s initiative to go beyond the traditional unders
 </section> 
     
           
-           
-<?php include('custom-footer.php') ?>
