@@ -7,7 +7,7 @@ Template Name: Days of Dorcas
        
 <section class="container">        
          <!-- title -->
-            <h2>Meet The Faciltitators</h2>
+            <h2>Meet The Facilitators</h2>
     <section> <!-- list of facilitators -->
         <article  class="facilitator">
                 <img src="" class="profile-avatar-big">
