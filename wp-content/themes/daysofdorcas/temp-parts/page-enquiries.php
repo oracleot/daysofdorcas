@@ -31,12 +31,4 @@
     </section> 
 
 </section> 
-<<<<<<< HEAD:wp-content/themes/daysofdorcas/temp-parts/page-enquiries.php
         <!-- close meet the facilitators -->
-=======
-
-
-          
-           
-<?php include('custom-footer.php') ?>
->>>>>>> 27694fa8d78a340015566461f954078fef1a0b2c:wp-content/themes/daysofdorcas/page-enquiries.php
